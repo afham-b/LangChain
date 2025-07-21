@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain-community = "*"
+langchainhub = "*"
+black = "*"
+python-dotenv = "*"
+langchain-ollama = "*"
+tweepy = "*"
+flask = "*"
+langchain = "*"
+langchain-openai = "*"
+langsmith = "*"
+openai = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
